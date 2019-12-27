@@ -1,3 +1,4 @@
+//example code 
 bool getFaceAntiStatus(cv::Mat srcRGBImg,cv::Mat srcIRImg)
 {
 
